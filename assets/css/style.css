@@ -24,6 +24,15 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+h2{margin-bottom: 20px;
+    font-size: 36px;
+}
+
+h3{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
 header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,9 +58,6 @@ a {
     text-decoration: none;
 }
 
-.benefits p{
-    margin-bottom: 32px;
-}
 p {
     font-size: 16px;
 }
@@ -81,30 +87,6 @@ section {
     margin-left: 20px;
 }
 
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-    color: #ffffff;
-}
-
-h3{
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.images {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-    margin-bottom: 10px;
-}
-
 .card {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,8 +101,28 @@ img{
     max-height: 200px;
 }
 
-h2{margin-bottom: 20px;
-    font-size: 36px;
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+    color: #ffffff;
+}
+
+.benefits p{
+    margin-bottom: 32px;
+}
+
+.images {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+    margin-bottom: 10px;
 }
 
 .footer {
